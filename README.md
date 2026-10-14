@@ -294,7 +294,7 @@ def test_clean_data_removes_customer_id():
 
 ## Автор
 
-- GitHub: [@SoYaMin1]
+- GitHub: https://github.com/SoYaMin1
 - Email: pandawow0700148815@gmail.com
 
 ---
