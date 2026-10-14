@@ -69,7 +69,7 @@ churn-prediction-mlops/
 
 ---
 
-## 🛠 Технологический стек
+## Технологический стек
 
 | Категория | Инструменты |
 |-----------|-------------|
@@ -186,7 +186,7 @@ streamlit run app.py
 |--------|--------------|
 | Logistic Regression | ~0.845 |
 | Random Forest | ~0.825 |
-| **XGBoost** ⭐ | **~0.850** |
+| **XGBoost** | **~0.850** |
 
 ### Финальные метрики лучшей модели (XGBoost)
 
@@ -227,7 +227,7 @@ SHAP-анализ запускается автоматически в `train.py
 
 ---
 
-## 💻 Использование модели
+## Использование модели
 
 ### Через Python
 
@@ -271,7 +271,7 @@ streamlit run app.py
 
 ---
 
-## 🧪 Тестирование
+## Тестирование
 
 Проект структурирован так, что каждый модуль можно тестировать отдельно:
 
@@ -294,11 +294,11 @@ def test_clean_data_removes_customer_id():
 
 ## Автор
 
-- GitHub: [@YOUR_USERNAME](https://github.com/SoYaMin1)
+- GitHub: [@SoYaMin1]
 - Email: pandawow0700148815@gmail.com
 
 ---
 
-## 🙏 Благодарности
+## Благодарности
 
 - Датасет: [Kaggle DataSets](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
