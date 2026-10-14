@@ -25,7 +25,7 @@
 
 ---
 
-## 📂 Структура проекта
+## Структура проекта
 
 ```
 churn-prediction-mlops/
@@ -49,7 +49,7 @@ churn-prediction-mlops/
 
 ---
 
-## 📊 Данные
+## Данные
 
 **Источник:** [Telco Customer Churn (Kaggle)](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
@@ -81,7 +81,7 @@ churn-prediction-mlops/
 
 ---
 
-## 🚀 Как запустить проект у себя.
+## Как запустить проект у себя.
 
 ### 1. Клонировать репозиторий
 
@@ -135,7 +135,7 @@ streamlit run app.py
 
 ---
 
-## 🧠 Архитектура пайплайна
+## Архитектура пайплайна
 
 Проект следует принципам **production ML**:
 
@@ -178,7 +178,7 @@ streamlit run app.py
 
 ---
 
-## 📈 Результаты
+## Результаты
 
 ### Сравнение моделей (5-fold CV, ROC-AUC)
 
@@ -211,7 +211,7 @@ Actual Yes              ~130          ~245
 
 ---
 
-## 🔍 Интерпретация: SHAP
+## Интерпретация: SHAP
 
 Топ-признаки, влияющие на отток (по SHAP importance):
 
@@ -292,7 +292,7 @@ def test_clean_data_removes_customer_id():
 ```
 
 
-## 👤 Автор
+## Автор
 
 - GitHub: [@YOUR_USERNAME](https://github.com/SoYaMin1)
 - Email: pandawow0700148815@gmail.com
